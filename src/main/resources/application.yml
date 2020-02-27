@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+wxpay:
+  appid: wx5beac15ca207cdd40c
+  appsecret: 554801238f17fdsdsdd6f96b382fe548215e9
